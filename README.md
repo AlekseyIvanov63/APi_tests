@@ -1,1 +1,1 @@
-API tests
+Educational API tests
